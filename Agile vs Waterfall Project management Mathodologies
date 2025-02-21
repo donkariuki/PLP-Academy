@@ -1,0 +1,35 @@
+---
+
+ AGILE VS WATERFALL
+
+---
+
+Difference Between Agile and Waterfall Methodologies
+Approach:
+Waterfall follows a sequential and linear process where each phase must be completed before moving to the next.
+Agile follows an iterative and incremental approach where work is divided into small cycles (sprints) with continuous improvements.
+
+Flexibility:
+Waterfall is rigid and does not easily accommodate changes once the project starts.
+Agile is highly flexible, allowing changes to be made at any stage based on feedback.
+
+Project Phases:
+Waterfall consists of fixed stages: Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
+Agile follows a continuous cycle of planning, development, testing, and review, with multiple iterations.
+
+Customer Involvement:
+Waterfall involves minimal customer interaction after the initial requirement phase.
+Agile encourages frequent customer collaboration throughout the project.
+
+Risk Management:
+Waterfall has a higher risk because issues are typically discovered late in the testing phase.
+Agile has lower risk as testing is continuous, allowing early detection and resolution of problems.
+
+Delivery:
+Waterfall delivers the final product only at the end of the project.
+Agile delivers functional components incrementally, providing value early and frequently.
+
+In conclusion:
+Best For:
+Waterfall is best suited for projects with well-defined requirements and minimal expected changes, such as construction or government projects.
+Agile is ideal for projects with evolving requirements and a need for rapid iterations, such as software development or startups.
