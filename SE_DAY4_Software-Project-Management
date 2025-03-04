@@ -1,0 +1,132 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+Why it’s crucial:
+
+Prevents increased costs due to delays.
+Keeps client and stakeholder trust.
+Ensures market competitiveness (especially for products with time-sensitive launches).
+Helps avoid resource burnout and overuse.
+How to ensure deadlines are met:
+
+Set realistic, achievable timelines.
+Use project management tools (like Jira, Trello).
+Break tasks into manageable milestones.
+Regularly monitor progress with stand-ups and reviews.
+Manage scope creep by controlling feature additions.
+Allocate buffer time for unexpected issues.
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Why cost control matters:
+
+Ensures profitability.
+Prevents resource exhaustion.
+Keeps clients satisfied with financial transparency.
+Strategies to prevent overruns:
+
+Detailed upfront budgeting.
+Track expenses in real-time.
+Use fixed-price contracts when possible.
+Prioritize features (MVP first).
+Regular financial reviews and audits.
+Adjust resource allocation as needed.
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Feature	Agile	Waterfall
+Approach	Iterative & flexible	Sequential & structured
+Changes	Easy to adapt mid-project	Hard to change once started
+Testing	Ongoing during development	After development is complete
+Delivery	Frequent small releases	Single final delivery
+Best for	Dynamic, evolving projects	Well-defined, fixed-scope projects
+Advantages of Agile:
+
+Flexibility.
+Continuous feedback.
+Early problem detection.
+Disadvantages of Agile:
+
+Requires constant stakeholder involvement.
+Less predictable timelines and budgets.
+Advantages of Waterfall:
+
+Clear, structured plan.
+Easier to manage with fixed requirements.
+Disadvantages of Waterfall:
+
+Inflexible to changes.
+Late testing can reveal critical issues.
+4. When is Agile better than Waterfall, and vice versa?
+Agile is better for:
+
+Startups experimenting with product-market fit.
+Projects with unclear or changing requirements.
+Example: Developing a mobile app with frequent user feedback.
+Waterfall is better for:
+
+Projects with fixed regulations (e.g., medical software).
+Projects where the scope is clear and unlikely to change.
+Example: Banking system software with strict compliance.
+5. What are methods to ensure quality assurance (QA) in a software project? Why is QA important?
+QA methods:
+
+Automated testing (unit, integration, regression).
+Code reviews.
+Continuous Integration/Continuous Deployment (CI/CD).
+Manual testing (user experience).
+User Acceptance Testing (UAT).
+Why it’s important:
+
+Prevents bugs and failures.
+Maintains user trust and satisfaction.
+Saves costs on post-release fixes.
+Ensures security and performance.
+6. How does defining project scope contribute to successful planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Scope definition:
+
+Sets clear boundaries of what will (and won’t) be delivered.
+Prevents scope creep.
+Aligns stakeholders' expectations.
+WBS:
+
+A hierarchical breakdown of the total work into smaller, manageable tasks.
+Helps in resource planning, time estimation, and task delegation.
+Visualizes the full scope of the project.
+7. What are the benefits of a detailed project schedule, and how can Gantt charts help?
+Benefits:
+
+Tracks deadlines and dependencies.
+Allocates resources effectively.
+Identifies risks and bottlenecks.
+Gantt charts:
+
+Visualize the timeline of tasks.
+Show dependencies between tasks.
+Help monitor progress at a glance.
+8. What are the core issues your software aims to address? Why are these problems significant to your target audience?
+Example answer (adjust for your case):
+
+Core issues: Inefficient task management in remote teams.
+Significance: Remote workers need clear communication and task tracking to stay productive and aligned.
+9. How can clearly defining the problem help develop an effective solution?
+Focuses the team on solving the right issues.
+Prevents wasted development on unnecessary features.
+Provides a clear metric for success (solving the problem effectively).
+10. How would you describe your software solution without diving into technical details?
+Example:
+
+“It’s a platform that helps remote teams stay organized and collaborate seamlessly, making sure nothing falls through the cracks.”
+
+11. What are the main features that make your software stand out?
+Example:
+
+Real-time collaboration tools.
+Smart task prioritization using AI.
+Seamless integration with existing workplace apps.
+Offline access and sync.
+12. What data is available about market size and growth potential?
+Look for:
+
+Industry reports (e.g., Gartner, Statista).
+Competitor analysis.
+Surveys and case studies. Example: “The global project management software market is projected to grow to $10 billion by 2028.”
+13. How can understanding market trends inform your software’s positioning and development?
+Guides feature prioritization (like adding AI if automation is trending).
+Helps tailor marketing messages.
+Identifies gaps competitors aren’t filling.
+Ensures long-term relevance and growth.
